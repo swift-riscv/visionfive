@@ -1,2 +1,2 @@
-# visionfive
-StarFive VisionFive board support
+# VisionFive
+StarFive VisionFive 2 board support
